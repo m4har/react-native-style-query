@@ -34,7 +34,10 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "responsive",
+    "media query",
+    "react native media query"
   ],
   "repository": "https://github.com/m4har/react-native-style-query",
   "author": "m4har <mahardicka404@gmail.com> (https://github.com/m4har)",

@@ -13,7 +13,7 @@ npm i react-native-style-query
 
 ## example gif
 
-![exmple](https://uc3b606595ca33f520e12204dff6.previews.dropboxusercontent.com/p/thumb/ABdNTnLAqGn-eeOFUsSNXjV1YVXAhaPAjqu2-dV0WDlVsYgE8xDyjsHrR1zd5bMkk634o46CMvvG2SaPG6IysMJFEe_jK75ysRSuN0_-OS2LzgoENwdAEd2zw-2gIaoqFExp9i3nN168lMGoAKD0IgvkQubVMSpObETZN2QkAxKQjw0KLMuw2uNRJsH7SL3caHOGKeVo--gORJSDqMoL0T9VD0wMrmRZopT0jQkOdykyCWpej8TvjiMr9RECyV_8RaXsg5PxqHtewxw53-ZyQ_iD37yAkoE5KnKCE7E_YR3QN7GYbU9kMsHoqTQWnu5sFXOa3MLcrEEqau8rG70Zv7krjP2rBxSAnsHXLO1zSYyHn-46jbLaWaBpjuYJxuD0pKDeuTNQ0mWUWajjnM1wEITicPcBH7nf97TFIXHtH6urxp4f6EN_a6G_rYnlLkOfpilYh7bDoZ1sh2kbgvtLpP6AiICAX6a3L5ezOJncuY2TCVFUrF7VPerkMFZsCGaiJCrPWQYmUhCUBIFfII6j4_7-2Ta4RyZww6V5a42RTb_I9w/p.gif)
+![exmple](https://media0.giphy.com/media/Suc1eT1bcAPWScBlMb/giphy.gif?cid=790b7611e814f8b3052d0664aeebb47a4aafbd66ea4cf644&rid=giphy.gif&ct=g)
 
 if image cant show [open image](https://www.dropbox.com/s/sdsbz55ioa5vqc5/preview-min.gif?dl=0)
 
